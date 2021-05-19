@@ -13,4 +13,4 @@ local merge test
 
 loca main -> remote merge test
 
-confilct test
+confilct test 
