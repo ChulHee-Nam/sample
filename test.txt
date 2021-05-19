@@ -10,3 +10,5 @@ haha 이제 된다
 this is new feature v1.0 
 
 local merge test
+
+loca main -> remote merge test
